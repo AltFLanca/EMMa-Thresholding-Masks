@@ -1,7 +1,7 @@
 [project]
 name = "emma-thresholding-masks"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generate foreground masks for EMMa product images using thresholding."
 readme = "README.md"
 requires-python = ">=3.10.19"
 dependencies = [
